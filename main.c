@@ -54,5 +54,6 @@ int main() {
     printf("Enter the number of days:");
     scanf("%d", &future);
     check_and_print(d, m, y, future);
+    printf("the change is here");
     return 0;
 }
