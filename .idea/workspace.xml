@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="untitled" targetName="untitled" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -27,16 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="816ac163-b018-4b17-b4c1-7e042495eac3" name="text" comment="MY CHANGES">
-      <change afterPath="$PROJECT_DIR$/.idea/Calendar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/I_did_something.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/I_did_something/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/MY_CHANGES.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/MY_CHANGES/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="816ac163-b018-4b17-b4c1-7e042495eac3" name="text" comment="add files once again">
+      <change beforePath="$PROJECT_DIR$/.idea/Calendar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Calendar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <list id="16453ad3-e41b-42d0-8996-6938954ad7c2" name="Default Changelist" comment="I did nothing" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +28,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -73,6 +55,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -150,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588883088517</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add files once again">
+      <created>1588883560802</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588883560802</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +189,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I did nothing" />
@@ -202,7 +199,8 @@
     <MESSAGE value="changes in text file" />
     <MESSAGE value="some more changes in text file" />
     <MESSAGE value="MY CHANGES" />
-    <option name="LAST_COMMIT_MESSAGE" value="MY CHANGES" />
+    <MESSAGE value="add files once again" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files once again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="703" y="324" width="518" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588879099847">
@@ -237,6 +235,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1878" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588875521900" />
+    <state x="187" y="88" width="1536" height="857" key="MergeDialog" timestamp="1588883817465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="187" y="88" width="1536" height="857" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588883817465" />
+    <state x="847" y="389" key="MultipleFileMergeDialog" timestamp="1588883817468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="389" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588883817468" />
     <state x="707" y="225" width="495" height="583" key="RollbackChangesDialog" timestamp="1588880400848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -245,18 +251,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="847" y="436" width="216" height="160" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588883075661" />
-    <state x="555" y="255" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1588882742004">
+    <state x="555" y="255" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1588883565644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="255" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588882742004" />
+    <state x="555" y="255" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588883565644" />
     <state x="100" y="99" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588880924337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="99" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588880924337" />
-    <state x="746" y="310" width="427" height="412" key="git4idea.merge.GitMergeDialog" timestamp="1588883394714">
+    <state x="746" y="310" width="427" height="412" key="git4idea.merge.GitMergeDialog" timestamp="1588883587186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="746" y="310" width="427" height="412" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588883394714" />
+    <state x="746" y="310" width="427" height="412" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588883587186" />
     <state x="656" y="310" width="597" height="412" key="git4idea.merge.GitPullDialog" timestamp="1588881304147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
