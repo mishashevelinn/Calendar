@@ -1,0 +1,14 @@
+Index: cmake-build-debug/some-text
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>text, text...heoo sdfsdf dfgdfg sd,fkgjsdhfkjgh
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- cmake-build-debug/some-text	(revision 8352738ff7025b5a743cf00334012030f79ea27c)
++++ cmake-build-debug/some-text	(date 1588883075675)
+@@ -1,1 +1,1 @@
+-text, text...heoo sdfsdf dfgdfg sd,fkgjsdhfkjgh
+\ No newline at end of file
++text, text...heoo sdfsdf dfgdfg sd,fkgjsdhfkjgh lskfdjgshldfjkgh
+\ No newline at end of file
